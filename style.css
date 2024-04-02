@@ -1,6 +1,29 @@
-.album
+*{
+    margin:0%;
+    padding:0%;
+}
+.corpo_pagina{
+    background-color: darkgoldenrod;
+    color: white;
+}
+.cabecalho_titulo{
+    font-size: 60px;
+    text-align:center;
+}
+.cabecalho_subtitulo{
+ text-align: center;
+}
+.paragrafo_introducao{
+    text-align: justify;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+}
+.foto_turma{
+width: 100%;
+}
+.lista_paginas_secundarias{
+display: inline-block;
 
 
-
-
-
+}
