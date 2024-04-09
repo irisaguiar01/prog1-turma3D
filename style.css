@@ -24,6 +24,8 @@ width: 100%;
 }
 .lista_paginas_secundarias{
 display: inline-block;
-
+}
+.corpo_pagina{
+background-color: black;
 
 }
